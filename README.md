@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Zain
 
-<!--
-**Khanza7820/Khanza7820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics MSci student at **Imperial College London** (graduating 2028), building quantitative models and data-driven tools in Python. Interested in **quantitative trading**, statistical modelling and machine learning.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+|---|---|
+| [**UFC Fight Predictor**](https://github.com/Khanza7820/ufc-fight-predictor) | Machine-learning model predicting UFC fight outcomes from historical fighter statistics. |
+| [**Cage IQ**](https://github.com/Khanza7820/cage-iq) | Calculates a "Fight IQ" rating for UFC fighters from measured performance variables. |
+
+### Tools
+Python · NumPy · pandas · scikit-learn · Matplotlib · Git
+
+### Currently
+- Working on AI implementation at a credit fund
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/zain-a-khan-zak/) · [Email](mailto:zainkhan2004@hotmail.co.uk)
